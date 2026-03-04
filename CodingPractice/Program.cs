@@ -164,6 +164,7 @@ class CoPrac
         Console.WriteLine(d.ToString());
         Console.WriteLine(b.ToString());
     }
+
 }
 
 
